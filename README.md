@@ -48,4 +48,6 @@ TensorFlow 2.x
 NumPy
 
 Matplotlib
-![Sample Output](sample_predictions.png)
+
+OUTPUT
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/094e6865-6ac3-49a6-82e8-98f6c5fcd10a" />
