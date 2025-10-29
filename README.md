@@ -98,3 +98,5 @@ Use Dropout layers to reduce overfitting
 
 Deploy model as a web app using Flask or Streamlit
 
+<img width="668" height="917" alt="Image" src="https://github.com/user-attachments/assets/3247c7e8-2067-48c9-9ea2-f1ff933d6d94" />
+
