@@ -9,6 +9,8 @@ DOMAIN:DATA SCIENCE
 DURATION: 4 WEEKS
 
 MENTOR:NEELA SANTHOSH
+
+# deep-learning-image-classification
 🧠 Deep Learning Image Classification (MNIST)
 A Convolutional Neural Network (CNN) built using TensorFlow to classify handwritten digits (0–9) from the MNIST dataset.
 This project demonstrates how deep learning can interpret visual patterns with high accuracy.
@@ -95,4 +97,4 @@ Add model evaluation on custom user-drawn digits
 Use Dropout layers to reduce overfitting
 
 Deploy model as a web app using Flask or Streamlit
-# deep-learning-image-classification
+
